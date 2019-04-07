@@ -1,6 +1,3 @@
-use std::mem;
-
-#[allow(dead_code)]
 pub struct List<T> {
   head: Link<T>,
 }
